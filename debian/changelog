@@ -1,0 +1,6 @@
+automake (1.16.5-1) mantic; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Jackson Hansen <madjack971@bsdmail.com>  Tue, 19 Sep 2023 22:09:55 -0700
